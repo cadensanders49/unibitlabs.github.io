@@ -12,8 +12,8 @@
 				return false;
 			});
 
-			var folsom = new google.maps.LatLng(37.782393, -122.400618);
-			var markerposition = new google.maps.LatLng(37.782393, -122.400618);
+			var folsom = new google.maps.LatLng(29.686802, -98.148225);
+			var markerposition = new google.maps.LatLng(29.686802, -98.148225);
 
 			var marker;
 			var map;
