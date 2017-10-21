@@ -46,6 +46,11 @@
 
 img{ max-width:100%;}
 
+.pic {
+  margin-left: 15%;
+  overflow: hidden;
+}
+
 a, a:hover, a:active{ outline:0px !important}
 
 @font-face {
@@ -734,7 +739,7 @@ hr.bold {
 
 .cta .btn-ghost {
   position: relative;
-  top: 13px;
+  top: 27px;
 }
 
 
@@ -794,6 +799,14 @@ hr.bold {
 }
 .main-section.alabaster{
 	background:#fafafa;
+}
+
+.services-p{
+  margin-top:42px;
+}
+
+.services-push-right{
+  margin-left:4%
 }
 
 /* Featured Work
@@ -887,7 +900,8 @@ hr.bold {
 }
 
 #about .about-text {
-  line-height: 26px;
+  line-height: 40px;
+  font-size: 16px
 }
 
 #about .about-text:last-child {
@@ -1183,6 +1197,14 @@ h3.footer-heading:first-letter {
 .myf ul.social-icons li a.linkedin-bg:hover,
 .myf ul.social-icons li a.linkedin-bg:focus {
     background-color: #0e76a8;
+}
+.myf ul.social-icons li a.github-bg:hover,
+.myf ul.social-icons li a.github-bg:focus {
+    background-color: #0e76a8;
+}
+.myf ul.social-icons li a.youtube-bg:hover,
+.myf ul.social-icons li a.youtube-bg:focus {
+    background-color: #c4302b;
 }
 .myf ul.social-icons li a i {
     position: relative;
