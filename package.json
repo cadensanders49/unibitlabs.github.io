@@ -1,0 +1,23 @@
+{
+  "name": "unibitlabs.github.io",
+  "version": "1.0.0",
+  "description": "The community version of our website for peer review and polishing.",
+  "main": "index.js",
+  "dependencies": {
+    "popper.js": "^1.12.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadensanders49/unibitlabs.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cadensanders49/unibitlabs.github.io/issues"
+  },
+  "homepage": "https://github.com/cadensanders49/unibitlabs.github.io#readme"
+}

@@ -1852,3 +1852,9 @@ a.btn:focus{
 	}
 
 }
+
+.projectImg {
+  display: block;
+  width: 10em;
+  margin: 0 auto;
+}
